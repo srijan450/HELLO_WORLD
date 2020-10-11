@@ -1,0 +1,6 @@
+HELLO HERE!
+
+LANGUAGES I KNOW
+
+!.c
+2.c++
